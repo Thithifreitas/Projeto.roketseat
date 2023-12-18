@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center"></p>
-<img alt="license" src"![Cover](https://github.com/Thithifreitas/Projeto.roketseat/assets/143109688/08fc4e34-deec-4257-b453-7dbf5b4791c5)"
+<img alt="license" src".github/conver.jpg"
 
 
 
