@@ -55,7 +55,9 @@ body * { font-family: 'Inter', sans-serif;
 
 
 #profile img{
-width: 112px;
+width: 120px;
+height: 120px;
+border-radius: 50%;
 
 
 }
